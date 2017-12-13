@@ -6,9 +6,6 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "files": [
-    "lib"
-  ],
   "scripts": {
     "test": "mocha",
     "lint": "eslint {lib,test}/**/*.js",
